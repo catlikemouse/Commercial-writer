@@ -1,0 +1,18 @@
+{
+  "plot_points": {
+    "completed": [],
+    "ongoing": [],
+    "future": []
+  },
+  "relationships": {},
+  "items": [],
+  "world_state": {
+    "factions": {},
+    "timeline": 0
+  },
+  "reader_emotion": {
+    "tension_history": [],
+    "current_tension": 0,
+    "last_reward_chapter": 0
+  }
+}
