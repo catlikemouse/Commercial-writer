@@ -1,0 +1,10 @@
+{
+  "project": "commercial-writer",
+  "mode": "polish_and_score",
+  "nextChapter": 2,
+  "targetChapters": 100,
+  "sourceDir": "skills/commercial-writer/output",
+  "polishedDir": "skills/commercial-writer/output/polished",
+  "scoreDir": "skills/commercial-writer/output/scores",
+  "updatedAt": "2026-02-17"
+}
