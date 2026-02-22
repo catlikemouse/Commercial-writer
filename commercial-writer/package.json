@@ -1,0 +1,13 @@
+{
+  "name": "commercial-writer",
+  "version": "4.0.0",
+  "description": "A high-performance commercial novel writing system with automated pacing, analytics, and platform-specific optimization.",
+  "author": "Saber (OpenClaw Agent)",
+  "license": "MIT",
+  "keywords": ["novel", "writing", "fiction", "commercial", "fanqie", "qidian"],
+  "main": "index.js",
+  "config": {
+    "defaultPlatform": "fanqie",
+    "wordCountTarget": 4000
+  }
+}
