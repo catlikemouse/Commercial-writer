@@ -1,0 +1,29 @@
+# OpenClaw / workspace
+memory/
+MEMORY.md
+HEARTBEAT.md
+SOUL.md
+USER.md
+TOOLS.md
+IDENTITY.md
+BOOTSTRAP.md
+AGENTS.md
+
+# Temporary / caches
+.tmp/
+tmp/__pycache__/
+tmp/orig/
+tmp/backup_output_*/
+tmp/*.zip
+tmp/polish_lock
+tmp/polish_progress_*.json
+tmp/reconstruct_progress.json
+
+# Secrets
+*.key
+tmp/.deepseek_key
+
+# Clawhub & exports
+.clawhub/
+exports/
+_pre_restore_*/
